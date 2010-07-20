@@ -1,0 +1,11 @@
+= Comprende
+
+Ruby gem for performing list comprehensions on collections of data.
+
+== Install
+
+  gem install comprende
+
+== Usage
+
+  Coming soon!

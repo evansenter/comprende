@@ -1,0 +1,8 @@
+Manifest
+README.rdoc
+Rakefile
+comprende.gemspec
+lib/comprende.rb
+lib/comprende/array.rb
+lib/comprende/proc.rb
+lib/comprende/symbol.rb
